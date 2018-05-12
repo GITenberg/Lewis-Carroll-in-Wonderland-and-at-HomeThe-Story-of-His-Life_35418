@@ -1,0 +1,25 @@
+_repo: Lewis-Carroll-in-Wonderland-and-at-HomeThe-Story-of-His-Life_35418
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moses, Belle
+    gutenberg_agent_id: '37660'
+    url: http://www.gutenberg.org/2009/agents/37660
+description: ''
+gutenberg_issued: '2011-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35418'
+  lccn: '10023644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Carroll, Lewis, 1832-1898'
+title: 'Lewis Carroll in Wonderland and at Home: The Story of His Life'
+url: http://www.gutenberg.org/ebooks/35418
